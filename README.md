@@ -1,3 +1,3 @@
 # xss
 xss-via-gif
-e so fazer o upload 
+e só fazer o upload 
